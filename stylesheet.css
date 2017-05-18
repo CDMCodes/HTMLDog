@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: arial, helvetica, serif;
+}
+
+h1 {
+  color: blue;
+  background-color: gray;
+}
+
+li {
+  font-weight: bold;
+}
+
+form {
+  text-transform: capitalize;
+}
